@@ -15,7 +15,7 @@ This repository contains documentation for my Semester III Project to satisfy th
 - Indicator
 
 ## Circuit Diagram
-  
+  ![image](https://github.com/Ashutoshss/InfraredSensorModule/assets/103228643/764b7738-4fbd-43d9-8f2a-6d3121ac628b)
 
 ## Process Of Creation of PCB for the Module
 1. **:** 
