@@ -24,7 +24,7 @@ This repository contains documentation for my Semester III Project to satisfy th
    - To Make the PCB we first need to convert the Schematic into PCB
      as this PCB is made using etching Process we only have bottom layer for the Tracess
      After Perfectly making Track this is the result
-     ![image](https://github.com/Ashutoshss/InfraredSensorModule/assets/103228643/40ceb070-d768-4d6a-884e-d362a570e123)
+     !![image](https://github.com/Ashutoshss/InfraredSensorModule/assets/103228643/40ceb070-d768-4d6a-884e-d362a570e123)
      
      
 
