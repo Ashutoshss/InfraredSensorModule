@@ -18,22 +18,15 @@ This repository contains documentation for my Semester III Project to satisfy th
   ![image](https://github.com/Ashutoshss/InfraredSensorModule/assets/103228643/764b7738-4fbd-43d9-8f2a-6d3121ac628b)
   [Circuit Diagram.pdf](https://github.com/Ashutoshss/InfraredSensorModule/files/15153404/Circuit.Diagram.pdf)
 
+
 ## Process Of Creation of PCB for the Module
-1. **:** 
-2. **ROS2 Humble Installation:** Refer to the ROS2 Humble documentation [here](https://docs.ros.org/en/humble/index.html) for installation instructions.
-3. **Computer Vision:**
-  ```bash
-  pip3 install opencv-contrib-python==4.7.0.72
-  pip3 install numpy==1.21.5
-  ```
-6. **Gazebo:** Gazebo Reference [here](https://classic.gazebosim.org/tutorials).
-7. **Rviz:** Rviz is included with ROS2, so ensure it's installed along with ROS2.[here](https://classic.gazebosim.org/tutorials?tut=drcsim_visualization&cat=drcsim)
-## Additional Packages
-1. **MoveIt:**
-   - To install MoveIt containing all packages ready for deployment, run:
-     ```bash
-     sudo apt install ros-humble-moveit
-     ```
+1. **PCB Layout:**
+   - To Make the PCB we first need to convert the Schematic into PCB
+     as this PCB is made using etching Process we only have bottom layer for the Tracess
+     After Perfectly making Track this is the result
+     ![image](https://github.com/Ashutoshss/InfraredSensorModule/assets/103228643/40ceb070-d768-4d6a-884e-d362a570e123)
+     
+     
 
 2. **Joint State Broadcaster:**
    - This package publishes joint states to a topic, enabling other dependent nodes to know about the state of each joint. To install, run:
