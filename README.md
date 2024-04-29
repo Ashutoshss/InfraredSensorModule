@@ -4,7 +4,7 @@
 This repository contains documentation for my Semester III Project to satisfy the coursework of "Mini Project". This repository generally does not contain code but resource files of the Infrared Sensor Module.
 
 ## Project Overview
-[Circuit Diagram.pdf](https://github.com/Ashutoshss/InfraredSensorModule/files/15153404/Circuit.Diagram.pdf)
+
 
 ## Required Components
 - IC LM358
@@ -16,6 +16,7 @@ This repository contains documentation for my Semester III Project to satisfy th
 
 ## Circuit Diagram
   ![image](https://github.com/Ashutoshss/InfraredSensorModule/assets/103228643/764b7738-4fbd-43d9-8f2a-6d3121ac628b)
+  [Circuit Diagram.pdf](https://github.com/Ashutoshss/InfraredSensorModule/files/15153404/Circuit.Diagram.pdf)
 
 ## Process Of Creation of PCB for the Module
 1. **:** 
