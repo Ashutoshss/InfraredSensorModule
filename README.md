@@ -6,33 +6,32 @@ This repository contains documentation for my Semester III Project to satisfy th
 ## Project Overview
 
 
-## Required Components
+## Required Electronic Components
 - IC LM358
 - IR Receiver
 - IR Transmitter
 - Resistor ()
 - 5v Power Supply
-- Indicator
+  
 
 ## Circuit Diagram
   ![image](https://github.com/Ashutoshss/InfraredSensorModule/assets/103228643/764b7738-4fbd-43d9-8f2a-6d3121ac628b)
   [Circuit Diagram.pdf](https://github.com/Ashutoshss/InfraredSensorModule/files/15153404/Circuit.Diagram.pdf)
 
+## Working
 
 ## Process Of Creation of PCB for the Module
 1. **PCB Layout:**
    - To Make the PCB we first need to convert the Schematic into PCB
      as this PCB is made using etching Process we only have bottom layer for the Tracess
      After Perfectly making Track this is the result
-     !!!!![image](https://github.com/Ashutoshss/InfraredSensorModule/assets/103228643/40ceb070-d768-4d6a-884e-d362a570e123)
+     ![image](https://github.com/Ashutoshss/InfraredSensorModule/assets/103228643/40ceb070-d768-4d6a-884e-d362a570e123)
      
      
 
-2. **Joint State Broadcaster:**
+2. **Etching Process**
    - This package publishes joint states to a topic, enabling other dependent nodes to know about the state of each joint. To install, run:
-     ```bash
-     sudo apt install ros-humble-joint-state-publisher
-     ```
+     
 
 
 
@@ -47,4 +46,4 @@ This repository contains documentation for my Semester III Project to satisfy th
 
 
 ## Repository Owner
-- Ashutosh Shrikant Singh
+- Ashutosh Singh
