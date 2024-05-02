@@ -13,7 +13,7 @@ In response to the ongoing COVID-19 pandemic and the need for continued social d
 - Resistor ()
 - 5v Power Supply
 
-## Circuit Diagram
+## Schematic Diagram
 ![Circuit Diagram](https://github.com/Ashutoshss/InfraredSensorModule/assets/103228643/764b7738-4fbd-43d9-8f2a-6d3121ac628b)
 [Download Circuit Diagram PDF](https://github.com/Ashutoshss/InfraredSensorModule/files/15153404/Circuit.Diagram.pdf)
 
