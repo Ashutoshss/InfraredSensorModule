@@ -28,11 +28,6 @@ In response to the ongoing COVID-19 pandemic and the need for continued social d
 2. **Etching Process**
    [Provide a correct and detailed explanation of the etching process.]
 
-## Video Documentation
-[![Video Submission for task2a](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://youtu.be/mkCT9SrxkP4?si=ET5bD1K9u_ZSkSv1)
-[![Video Submission for task2b](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://youtu.be/AUCwfSHWFOo?si=GIza9xTLzzItvdli)
-[![Video Submission for task3b](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://youtu.be/-_gF3-TqrlM?si=yQI4Bg9eGw3DysPP)
 
 ## Repository Owner
 - Ashutosh Singh
-  [Add any relevant information about yourself, such as academic background or interests.]
