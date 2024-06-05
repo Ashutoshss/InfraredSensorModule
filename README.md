@@ -1,7 +1,7 @@
 # Infrared Sensor Module
 
 ## Introduction
-This repository contains documentation for my Semester III Project to satisfy the coursework of "Mini Project". The repository primarily contains resource files of the Infrared Sensor Module.
+This repository contains documentation for my Semester III Project to satisfy the coursework of "Minor Project". The repository primarily contains resource files of the Infrared Sensor Module.
 
 ## Project Overview
 In response to the ongoing COVID-19 pandemic and the need for continued social distancing measures, the Infrared Sensor Module was developed as a solution to minimize physical contact with surfaces. The primary objective of this project was to create a touchless alternative for everyday interactions, such as doorbells, by utilizing infrared technology. By implementing this module, individuals can avoid direct contact with surfaces, reducing the risk of viral transmission. The prototype serves as a foundation for further development, with potential applications ranging from touchless doorbells to hands-free switches, contributing to safer and more hygienic environments. Additionally, the integration of 3D printing for the casing and PCB for the electronic components demonstrates a holistic approach towards creating a functional and aesthetically pleasing finished product. This project embodies innovation and adaptability in addressing the challenges posed by the pandemic, emphasizing the importance of technology in promoting public health and safety.
