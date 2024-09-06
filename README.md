@@ -10,7 +10,7 @@ In response to the ongoing COVID-19 pandemic and the need for continued social d
 - IC LM358
 - IR Receiver
 - IR Transmitter
-- Resistor ()
+- Resistor (100 ohms, 1k ohms, 10k ohms)
 - 5v Power Supply
 
 ## Schematic Diagram
