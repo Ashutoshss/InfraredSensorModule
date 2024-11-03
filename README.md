@@ -1,5 +1,3 @@
-![WhatsApp Imagat 12 45 05 PM](https://github.com/user-attachments/assets/ae064f3e-9019-4bf3-8a6a-897c433b54f8)
-https://github.com/user-attachments/assets/80eee74d-1ffc-4c93-8b0b-c826a02cf701
 # Infrared Sensor Module
 
 ## Introduction
