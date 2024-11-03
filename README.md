@@ -1,4 +1,4 @@
-
+![WhatsApp Imagat 12 45 05 PM](https://github.com/user-attachments/assets/ae064f3e-9019-4bf3-8a6a-897c433b54f8)
 https://github.com/user-attachments/assets/80eee74d-1ffc-4c93-8b0b-c826a02cf701
 # Infrared Sensor Module
 
@@ -27,6 +27,12 @@ In response to the ongoing COVID-19 pandemic and the need for continued social d
    ![PCB Layout](https://github.com/Ashutoshss/InfraredSensorModule/assets/103228643/40ceb070-d768-4d6a-884e-d362a570e123)
 
 2.
+   ![This board i used for submission](https://github.com/user-attachments/assets/27a5365e-86b8-4c2a-884f-fe299fd958bb)
+  ![the backside of the board](https://github.com/user-attachments/assets/517b1789-981a-4ff0-810b-dac5b3cbe920)
+
+3.
+   ![etching pcb board](https://github.com/user-attachments/assets/75a81cc6-c241-44e0-b863-4c9fc74cc427)
+
 
 
 
