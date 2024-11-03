@@ -19,7 +19,7 @@ In response to the ongoing COVID-19 pandemic and the need for continued social d
 [Download Schematic Diagram PDF](https://github.com/Ashutoshss/InfraredSensorModule/files/15153404/Circuit.Diagram.pdf)
 
 ## Working
-[Watch the Working Video](https://github.com/user-attachments/assets/96db7b04-44b0-4cfe-9591-321c93e7141e)
+[Watch the Working Video]https://github.com/user-attachments/assets/96db7b04-44b0-4cfe-9591-321c93e7141e
 
 # Pictures
 1. **PCB Layout:**
