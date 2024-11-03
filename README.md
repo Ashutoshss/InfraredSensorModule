@@ -21,21 +21,21 @@ In response to the ongoing COVID-19 pandemic and the need for continued social d
 ## Working
    
    https://github.com/user-attachments/assets/96db7b04-44b0-4cfe-9591-321c93e7141e
-   Uploading WhatsApp Video 2024-11-03 at 12.44.49 PM.mp4…
 
 # Pictures
 1. **PCB Layout:**
    ![PCB Layout](https://github.com/Ashutoshss/InfraredSensorModule/assets/103228643/40ceb070-d768-4d6a-884e-d362a570e123)
 
-2.
+2. **Submission Board (Front and Back)**
    ![This board i used for submission](https://github.com/user-attachments/assets/27a5365e-86b8-4c2a-884f-fe299fd958bb)
   ![the backside of the board](https://github.com/user-attachments/assets/517b1789-981a-4ff0-810b-dac5b3cbe920)
 
-3.
+3. **Etching PCB Board**
    ![etching pcb board](https://github.com/user-attachments/assets/75a81cc6-c241-44e0-b863-4c9fc74cc427)
 
 
-
+## Note
+-The project's main board is completed and submitted, but the etching board is still not ready. I was trying to make this using etching, but I will complete it later.
 
 ## Repository Owner
 - Ashutosh Singh
