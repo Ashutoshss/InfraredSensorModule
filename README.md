@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/80eee74d-1ffc-4c93-8b0b-c826a02cf701
 # Infrared Sensor Module
 
 ## Introduction
@@ -13,20 +15,19 @@ In response to the ongoing COVID-19 pandemic and the need for continued social d
 - Resistor (100 ohms, 1k ohms, 10k ohms)
 - 5v Power Supply
 
+
 ## Schematic Diagram
 ![Circuit Diagram](https://github.com/Ashutoshss/InfraredSensorModule/assets/103228643/764b7738-4fbd-43d9-8f2a-6d3121ac628b)
 [Download Schematic Diagram PDF](https://github.com/Ashutoshss/InfraredSensorModule/files/15153404/Circuit.Diagram.pdf)
 
 ## Working
-[Detail how the components interact and explain the intended functionality of the infrared sensor module.]
-
-## Process Of Creation of PCB for the Module
+   Uploading WhatsApp Video 2024-11-03 at 12.44.49 PM.mp4…
+# Pictures
 1. **PCB Layout:**
-   [Explain the process of converting the schematic into PCB, detailing the steps taken and any challenges faced.]
    ![PCB Layout](https://github.com/Ashutoshss/InfraredSensorModule/assets/103228643/40ceb070-d768-4d6a-884e-d362a570e123)
 
-2. **Etching Process**
-   [Provide a correct and detailed explanation of the etching process.]
+2.
+
 
 
 ## Repository Owner
