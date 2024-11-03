@@ -21,7 +21,7 @@ In response to the ongoing COVID-19 pandemic and the need for continued social d
 [Download Schematic Diagram PDF](https://github.com/Ashutoshss/InfraredSensorModule/files/15153404/Circuit.Diagram.pdf)
 
 ## Working
-   Uploading WhatsApp Video 2024-11-03 at 12.44.49 PM.mp4…
+   
 # Pictures
 1. **PCB Layout:**
    ![PCB Layout](https://github.com/Ashutoshss/InfraredSensorModule/assets/103228643/40ceb070-d768-4d6a-884e-d362a570e123)
