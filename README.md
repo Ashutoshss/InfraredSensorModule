@@ -26,8 +26,6 @@ https://github.com/user-attachments/assets/96db7b04-44b0-4cfe-9591-321c93e7141e
    ![PCB Layout](https://github.com/Ashutoshss/InfraredSensorModule/assets/103228643/40ceb070-d768-4d6a-884e-d362a570e123)
 
 2. **Submission Board (Front and Back)**
-   ![This board i used for submission](https://github.com/user-attachments/assets/27a5365e-86b8-4c2a-884f-fe299fd958bb)
-  ![the backside of the board](https://github.com/user-attachments/assets/517b1789-981a-4ff0-810b-dac5b3cbe920)
 ![This board i used for submission](https://github.com/user-attachments/assets/6cf3c9ca-c275-4fb6-a89c-44a93312bc2a)
 ![the backside of the board](https://github.com/user-attachments/assets/9b71872d-601a-4575-a403-ad17e4813706)
 
