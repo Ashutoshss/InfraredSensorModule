@@ -28,6 +28,8 @@ https://github.com/user-attachments/assets/96db7b04-44b0-4cfe-9591-321c93e7141e
 2. **Submission Board (Front and Back)**
    ![This board i used for submission](https://github.com/user-attachments/assets/27a5365e-86b8-4c2a-884f-fe299fd958bb)
   ![the backside of the board](https://github.com/user-attachments/assets/517b1789-981a-4ff0-810b-dac5b3cbe920)
+![WhatsApp Image 2024-11-21 at 23 29 30_ea5dd9a6](https://github.com/user-attachments/assets/6cf3c9ca-c275-4fb6-a89c-44a93312bc2a)
+![WhatsApp Image 2024-11-21 at 23 29 31_3e0d672a](https://github.com/user-attachments/assets/30e9c378-eb8f-446e-ac35-8f0f684f7f0d)
 
 3. **Etching PCB Board**
    ![etching pcb board](https://github.com/user-attachments/assets/75a81cc6-c241-44e0-b863-4c9fc74cc427)
