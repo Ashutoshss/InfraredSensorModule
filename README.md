@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/96db7b04-44b0-4cfe-9591-321c93e7141e
 
 
 ## Note
--The project's main board is completed and submitted, but the etching board is still not ready. I was trying to make this using etching, but I will complete it later.
+-The project's main board is completed and submitted, but the etching board is still not ready. I was tried making this using etching technique, but I will complete it later.
 
 ## Repository Owner
 - Ashutosh Singh
